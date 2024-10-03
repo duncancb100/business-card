@@ -1,0 +1,24 @@
+body{
+    margin:20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.city{
+    width:150px;
+}
+
+.card{
+   padding:20px;
+   display:flex;
+   justify-content: space-around;
+   width:400px;
+   margin:0px auto;
+   border-bottom: 5px solid #d8cefe;
+   background:#ddebf8;
+}
+
+.dbb{
+    text-align: center;
+    color:#2b2839;
+
+}
